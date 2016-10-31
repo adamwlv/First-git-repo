@@ -1,4 +1,4 @@
 Hi there
 
-Second line added to line three 
+Second line added to line three /*comment here*/
 
