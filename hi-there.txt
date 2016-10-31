@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Hi there
 
 Second line added to line three /*comment here*/
 
-=======
-Hi there
->>>>>>> parent of 5753715... New line added to line 3
+
